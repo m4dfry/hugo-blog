@@ -1,3 +1,7 @@
 [submodule "themes/coder"]
 	path = themes/coder
 	url = https://github.com/m4dfry/hugo-coder.git
+[submodule "public"]
+	path = public
+	url = git@github.com:m4dfry/m4dfry.github.io.git
+	branch = master
