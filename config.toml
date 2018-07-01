@@ -1,4 +1,4 @@
-baseurl = "http://blog.m4dfry.space" # Hostname (and path) to the root.
+baseurl = "https://m4dfry.github.io" # Hostname (and path) to the root.
 title = "m4dfry" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The sites language code.
