@@ -1,7 +1,9 @@
-baseurl = "https://m4dfry.github.io" # Hostname (and path) to the root.
+baseurl = "https://blog.m4dfry.space" # Hostname (and path) to the root.
 title = "m4dfry" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The sites language code.
+
+googleAnalytics = "UA-121701064-1"
 
 paginate = 20 # Default number of pages per page in pagination.
 canonifyurls = true # Enable to turn relative URLs into absolute.
